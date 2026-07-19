@@ -10,7 +10,7 @@
 
 - 🌱 Currently strengthening my expertise in Product Operations, Project Management, and Data Analytics.
 - 📈 Interested in solving business problems through technology and data-driven decision making.
-- 🤝 Open to Product Operations, PMO, Implementation Consultant, Project Coordinator, and Business Analyst opportunities.
+- 🤝 Open to Product Operations, PMO, Implementation Consultant, Project Coordinator, and Business Analyst opportunities, UI/UX Designer.
 - 📍 Gurgaon, Haryana, India
 
 ---
@@ -49,6 +49,8 @@ Regression-based machine learning project for IMDb rating prediction using featu
 ### 💳 Credit Card Fraud Detection
 End-to-end fraud detection system using imbalanced datasets, multiple ML models, hyperparameter tuning, and visualization.
 
+### 📊 E-Commerce Sales Dashboard (Power BI)
+Power BI dashboard analyzing Brazilian e-commerce sales with KPI tracking, revenue trends, product performance and geographic insights.
 ---
 
 ## 📜 Certifications
@@ -60,12 +62,12 @@ End-to-end fraud detection system using imbalanced datasets, multiple ML models,
 - Deloitte Data Analytics Job Simulation
 - Adobe Digital Marketing Strategy
 - Java Full Stack Developer Specialization
-
+- Google AI Essentials Specialization
 ---
 
 ## 🌐 Portfolio & Links
 
-🌍 Portfolio: https://anshul-verma20.netlify.app
+🌍 Internship: https://anshul-verma20.netlify.app
 
 💼 LinkedIn: https://www.linkedin.com/in/anshul-verma-analyst/
 
