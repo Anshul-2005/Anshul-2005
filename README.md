@@ -64,6 +64,7 @@ Complete Figma case study covering user research, personas, user journey mapping
 
 ### 🚀 TaskFlow — SaaS Product Landing Page
 Professional SaaS landing page with pricing plans, FAQ accordion, responsive layouts, polished UI components, brand guidelines, and developer handoff documentation.
+
 ---
 
 ## 📜 Certifications
